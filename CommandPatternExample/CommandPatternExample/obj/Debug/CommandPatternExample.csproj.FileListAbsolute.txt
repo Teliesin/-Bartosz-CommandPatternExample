@@ -1,0 +1,7 @@
+c:\users\lukasz\source\repos\CommandPatternExample\CommandPatternExample\bin\Debug\CommandPatternExample.exe.config
+c:\users\lukasz\source\repos\CommandPatternExample\CommandPatternExample\bin\Debug\CommandPatternExample.exe
+c:\users\lukasz\source\repos\CommandPatternExample\CommandPatternExample\bin\Debug\CommandPatternExample.pdb
+c:\users\lukasz\source\repos\CommandPatternExample\CommandPatternExample\obj\Debug\CommandPatternExample.csprojResolveAssemblyReference.cache
+c:\users\lukasz\source\repos\CommandPatternExample\CommandPatternExample\obj\Debug\CommandPatternExample.csproj.CoreCompileInputs.cache
+c:\users\lukasz\source\repos\CommandPatternExample\CommandPatternExample\obj\Debug\CommandPatternExample.exe
+c:\users\lukasz\source\repos\CommandPatternExample\CommandPatternExample\obj\Debug\CommandPatternExample.pdb
